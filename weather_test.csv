@@ -1,0 +1,11 @@
+Day,Outlook,Temperature,Humidity,Wind,PlayTennis
+D1001,Sunny,Hot,High,Strong,?
+D1002,Sunny,Hot,Normal,Weak,?
+D1003,Sunny,Cool,High,Weak,?
+D1004,Overcast,Hot,High,Strong,?
+D1005,Overcast,Mild,High,Weak,?
+D1006,Overcast,Cool,High,Strong,?
+D1007,Rain,Mild,Normal,Strong,?
+D1008,Rain,Mild,High,Weak,?
+D1009,Rain,Hot,High,Weak,?
+D1010,Rain,Mild,High,Strong,?
